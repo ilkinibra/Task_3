@@ -1,0 +1,13 @@
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_3/Task_3/bin/Debug/netcoreapp3.1/Task_3.deps.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_3/Task_3/bin/Debug/netcoreapp3.1/Task_3.runtimeconfig.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_3/Task_3/bin/Debug/netcoreapp3.1/Task_3.runtimeconfig.dev.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_3/Task_3/bin/Debug/netcoreapp3.1/Task_3.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_3/Task_3/bin/Debug/netcoreapp3.1/Task_3.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_3/Task_3/obj/Debug/netcoreapp3.1/Task_3.csproj.AssemblyReference.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_3/Task_3/obj/Debug/netcoreapp3.1/Task_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_3/Task_3/obj/Debug/netcoreapp3.1/Task_3.AssemblyInfoInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_3/Task_3/obj/Debug/netcoreapp3.1/Task_3.AssemblyInfo.cs
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_3/Task_3/obj/Debug/netcoreapp3.1/Task_3.csproj.CoreCompileInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_3/Task_3/obj/Debug/netcoreapp3.1/Task_3.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_3/Task_3/obj/Debug/netcoreapp3.1/Task_3.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_3/Task_3/obj/Debug/netcoreapp3.1/Task_3.genruntimeconfig.cache
